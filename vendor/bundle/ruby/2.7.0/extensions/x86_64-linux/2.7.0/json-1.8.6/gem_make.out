@@ -1,0 +1,13 @@
+current directory: /home/sophia/Development/CODE/phase-3/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+/home/sophia/.rbenv/versions/2.7.4/bin/ruby -I /home/sophia/.rbenv/versions/2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/sophia/Development/CODE/phase-3/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230222-60331-on2m6s sitelibdir\=./.gem.20230222-60331-on2m6s clean
+
+current directory: /home/sophia/Development/CODE/phase-3/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230222-60331-on2m6s sitelibdir\=./.gem.20230222-60331-on2m6s
+make: Nothing to be done for 'all'.
+
+current directory: /home/sophia/Development/CODE/phase-3/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230222-60331-on2m6s sitelibdir\=./.gem.20230222-60331-on2m6s install
